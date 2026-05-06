@@ -1,4 +1,5 @@
-TuneSense: AI-Powered Audio Recommendation
+#*TuneSense:*
+##AI-Powered Audio Recommendation
 An artificial intelligence and data science project aimed at building a music recommendation engine and analyzing audio characteristics using machine learning algorithms.
 
 🎵 Project Overview
