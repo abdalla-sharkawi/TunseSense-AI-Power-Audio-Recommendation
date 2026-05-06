@@ -44,4 +44,4 @@ The project relies on the **Spotify 2023** dataset, which includes:
 * Provided accurate track recommendations based on rhythm and energy preferences.
 
 ---
-**Authors:** Hala alkhawaldeh & Abdullah shaekawi
+**Authors:** Hala alkhawaldeh & Abdalla Sharqawi
