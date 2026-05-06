@@ -1,9 +1,6 @@
-#*TuneSense:*
-##AI-Powered Audio Recommendation
-An artificial intelligence and data science project aimed at building a music recommendation engine and analyzing audio characteristics using machine learning algorithms.
-
+TuneSense: AI-Powered Audio Recommendation
 🎵 Project Overview
-This project analyzes song data from the Spotify 2023 dataset and applies machine learning algorithms to provide smart music recommendations and cluster songs based on their audio features and rhythms (such as energy, danceability, and valence).
+An artificial intelligence and data science project aimed at building a music recommendation engine and analyzing audio characteristics using machine learning algorithms.
 
 📂 Dataset Information
 The project relies on the Spotify 2023 dataset, which includes:
