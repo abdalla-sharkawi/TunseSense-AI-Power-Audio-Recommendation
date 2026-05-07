@@ -60,8 +60,9 @@ The project utilizes the **Most Streamed Spotify Songs 2023** dataset, focusing 
 ***
 
 ### 👥 Authors
-* **Hala Alkhawaldeh** 🌙 (Lead AI & Data Science Developer)
-* **Abdalla Sharqawi** (Academic Collaborator)
+* **Hala Alkhawaldeh** 🌙 
+* **Abdalla Sharqawi**
+  Data science and artificial intelligence students
 
 ---
 <p align="center">
