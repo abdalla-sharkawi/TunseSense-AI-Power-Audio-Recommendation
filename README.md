@@ -60,11 +60,11 @@
   <tr>
     <td align="center">
       <b>Hala Alkhawaldeh</b> 🌙<br />
-      <i>Lead AI Developer</i>
+      <i>AI student</i>
     </td>
     <td align="center">
       <b>Abdalla Sharqawi</b><br />
-      <i>Technical Partner</i>
+      <i>AI student</i>
     </td>
   </tr>
 </table>
